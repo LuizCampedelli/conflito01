@@ -3,7 +3,7 @@ function greet(name) {
 }
 
 function farewell(name) {
-    return `Goodbye, ${name}!`;
+    return `Bye, ${name}!`;
 }
 
 console.log(greet("Alice"));
